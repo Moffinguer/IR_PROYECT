@@ -1,2 +1,3 @@
-docs/MadejaIR/*.log.xml
-docs/MadejaIR/*.html
+./docs/MadejaIR/*.log.xml
+./docs/MadejaIR/*.xml
+./docs/MadejaIR/*.html
